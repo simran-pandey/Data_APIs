@@ -20,4 +20,4 @@ This is a repository having links to APIs for various use cases
 
 | Data API                                                                 | Link                                 |
 | :-------------------------------------------------------------------: | :-------------------------------------: | 
-| TrustCheckr | https://domain-reputation.whoisxmlapi.com/api | 
+| WhoisXML | https://domain-reputation.whoisxmlapi.com/api | 
